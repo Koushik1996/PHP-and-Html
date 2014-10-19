@@ -1,3 +1,3 @@
 PHP-and-Html
 ============
-This is just the code basic code of php and html.
+This is just the basic code of php and html.
